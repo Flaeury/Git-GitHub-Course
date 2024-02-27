@@ -4,6 +4,7 @@ import random
 minusculo = "abcdefghijklmnopqrstuvxyz"
 maiusculo = "ABCDEFGHIJKLMNOPQRSTUVXYZ"
 especiais = "!_-.;:[]()"
+numeros = "01234567789"
 
 # -------------------------------------------------------------
 # AGORA, VOCÊ DEVE ADICIONAR CARACTERES NUMÉRIOS PARA A SENHA.
