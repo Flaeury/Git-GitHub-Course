@@ -5,12 +5,13 @@ minusculo = "abcdefghijklmnopqrstuvxyz"
 maiusculo = "ABCDEFGHIJKLMNOPQRSTUVXYZ"
 numeros = "0123456789"
 especiais = "!_-.;:[]()"
-
+numeros = "0123456789"
 # -------------------------------------------------------------
 # AGORA, VOCÊ DEVE ADICIONAR CARACTERES NUMÉRIOS PARA A SENHA.
 # -------------------------------------------------------------
 
 # Junta todos os caracteres em uma única string
+
 tudo = minusculo + maiusculo + especiais + numeros
 tamanho = 12  # Tamanho da senha
 
